@@ -1,7 +1,5 @@
 ---
-# <p align=center> brandondelacruzGIS
-
-brandondelacruzGIS
+<p align=center> brandondelacruzGIS
   
 ---
 
